@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+  }
+  
+  .home,
+  .services,
+  .products,
+  .sign-up {
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+  }
+  
+  .services {
+    background-image: url('https://in.images.search.yahoo.com/yhs/search?p=hd+images+for+react&fr=yhs-ddc-ddc_bd&type=bl-bcr-6YC24__alt__ddc_dss_bd_com&hspart=ddc&hsimp=yhs-ddc_bd&imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4923978.jpg#id=0&iurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F3949076.jpg&action=click');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
+  
+  .products {
+    background-image: url('https://in.images.search.yahoo.com/yhs/search?p=hd+images+for+react&fr=yhs-ddc-ddc_bd&type=bl-bcr-6YC24__alt__ddc_dss_bd_com&hspart=ddc&hsimp=yhs-ddc_bd&imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4923978.jpg#id=2&iurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F3949089.jpg&action=click');
+    background-position: center;
+    background-size: fill;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
+  
+  .sign-up {
+    background-image: url('https://in.images.search.yahoo.com/yhs/search?p=hd+images+for+react&fr=yhs-ddc-ddc_bd&type=bl-bcr-6YC24__alt__ddc_dss_bd_com&hspart=ddc&hsimp=yhs-ddc_bd&imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4923978.jpg#id=4&iurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F3949082.png&action=click');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
+  
